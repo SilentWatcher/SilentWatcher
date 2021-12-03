@@ -1,7 +1,5 @@
+# 👋 Hi, I’m SilentWatcher👋
 
-# Hi, I'm Vikas! 👋
-
-  - 👋 Hi, I’m SilentWatcher
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Web-Development
 - 💞️ I’m looking to collaborate on .intership company..
