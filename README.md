@@ -18,7 +18,7 @@
 ## 🛠 Skills
 
 - Git and github
-- java,typescript, html, css,scss, nodejs, react, 
+- java, typescript, html, css,scss, nodejs, react, 
 
 ## 🛠 projects 
 ### html, css, js:-
