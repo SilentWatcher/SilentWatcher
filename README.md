@@ -18,9 +18,10 @@
 ## 🛠 Skills
 
 - Git and github
-- java, html, css, nodejs 
+- java,typescript, html, css,scss, nodejs, react, 
 
 ## 🛠 projects 
+### html, css, js:-
 - [Animated Name❤️ ](https://silentwatcher.github.io/AnimatedName-/)
 - [AVENGER-flip-card-game🍿](https://silentwatcher.github.io/AVENGER-flip-card-game/)
 
