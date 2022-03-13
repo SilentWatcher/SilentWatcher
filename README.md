@@ -21,6 +21,6 @@
 - java, html, css, nodejs 
 
 ## 🛠 projects 
-[animated name ](https://silentwatcher.github.io/AnimatedName-/)
+[Animated Name❤️ ](https://silentwatcher.github.io/AnimatedName-/)
 
 
