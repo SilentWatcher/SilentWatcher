@@ -21,6 +21,6 @@
 - java, html, css, nodejs 
 
 ## 🛠 projects 
-[Animated Name❤️ ](https://silentwatcher.github.io/AnimatedName-/)
-
+- [Animated Name❤️ ](https://silentwatcher.github.io/AnimatedName-/)
+- [AVENGER-flip-card-game🍿](https://silentwatcher.github.io/AVENGER-flip-card-game/)
 
