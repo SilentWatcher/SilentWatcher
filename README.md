@@ -20,5 +20,7 @@
 - Git and github
 - java, html, css, nodejs 
 
+## 🛠 projects 
+[animated name ](https://silentwatcher.github.io/AnimatedName-/)
 
-  
+
