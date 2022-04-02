@@ -24,4 +24,5 @@
 ### html, css, js:-
 - [Animated Name❤️ ](https://silentwatcher.github.io/AnimatedName-/)
 - [AVENGER-flip-card-game🍿](https://silentwatcher.github.io/AVENGER-flip-card-game/)
+- [simon-says](https://silentwatcher.github.io/simon-says/)
 
