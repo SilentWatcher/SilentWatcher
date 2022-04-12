@@ -10,7 +10,7 @@
 
   
 ## 🔗 Links
-[![portfolio](https:/Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white))]()
+[![portfolio](https://img.shields.io/Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-vitekari-5945931b1/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VitekariVikas)
 
