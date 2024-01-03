@@ -52,5 +52,6 @@
 - [Password-Generator](https://silentwatcher-password-generator.netlify.app/)
 - [Currency-Convetor](https://silentwatcher-password-generator.netlify.app/)
 
+## Getting Better at Programming Each day 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SilentWatcher)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SilentWatcher&theme=dark)](https://git.io/streak-stats)
