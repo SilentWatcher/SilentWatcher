@@ -50,7 +50,7 @@
 ### HTML5, CSS, ReactJs, Tailwindcss:-
 - [Background-Changer](https://background-changer-btn-react.netlify.app/)
 - [Password-Generator](https://silentwatcher-password-generator.netlify.app/)
-- [Currency-Convetor](https://silentwatcher-password-generator.netlify.app/)
+- [Currency-Convetor](https://silentwatcher-currency-convetor.netlify.app/)
 
 ## Getting Better at Programming Each day 
 
