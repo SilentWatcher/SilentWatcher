@@ -1,4 +1,4 @@
-# 👋 Hi, I’m SilentWatcher👋
+# 👋 Hi, I’m Vikas Vitekari 👋
 
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Web-Development
